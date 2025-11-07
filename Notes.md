@@ -56,5 +56,8 @@ are made if changes are made.
 
 - Read about random.choice() , random.random() , len()
 - negative indexing in strings (reference to Data_types/handson.py) for examples
-- Also look for slicing and splicing    
+- Also look for slicing and splicing   
+- also look for dir()
+
+- *Learn about Errors*
 
