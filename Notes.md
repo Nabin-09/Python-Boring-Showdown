@@ -15,5 +15,23 @@
 
 ## Immutable and Mutability : 
 
+- Mutable Data types 
+    - List
+    - Set
+    - Dictionary 
+    - Bytearray
+    - Array
 
+- Immutable Data types :
+    - Integers
+    - Floating-point numbers
+    - Boolean
+    - Strings
+    - Tuples 
+    - Frozen set
+    - Bytes
+- Immutability : the references made in memory are never touched but new objects<br>
+are made if changes are made. 
+
+- refer to InnerWorking/3_Mutability.py for an example
 
