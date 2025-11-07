@@ -54,4 +54,7 @@ are made if changes are made.
 
 - File : this isn't a data type but a mechanis but very important
 
+- Read about random.choice() , random.random() , len()
+- negative indexing in strings (reference to Data_types/handson.py) for examples
+- Also look for slicing and splicing    
 
