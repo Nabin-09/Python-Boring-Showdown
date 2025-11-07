@@ -35,3 +35,23 @@ are made if changes are made.
 
 - refer to InnerWorking/3_Mutability.py for an example
 
+## Data Types : 
+
+- Number : 127 , 3.1180 , 7 + 8j , ob11 , Decimal() , Fraction()
+- String : 'nabin' , "Siliguri's" , b'a\x01c' , u'sp\xc4m'
+- List : [1 , [2 , 3] , [4 ' 'nabin] , 6.5] ,   list(range(10))
+- Tuple : (1 , 'nabin' , 4), tuple('spam') , namedtuple
+- Dictionary : {'food' : 'spam' , 'name' : 'Nabin'} , dict(hours=10)
+- Set : set('abc') , {'a' , 'b' , 'c'}
+- Boolean : True or False
+- None : None
+- Functions
+- Modules
+- Classes
+
+- Special data types : 
+- Decorators , generators , Iterators , MetaProgramming
+
+- File : this isn't a data type but a mechanis but very important
+
+
