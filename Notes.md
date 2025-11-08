@@ -73,3 +73,5 @@ are made if changes are made.
 
 - Operators : + , - , * , ** , // , /
 - + can concatenate strings 
+- study about repr , str and print
+- 
