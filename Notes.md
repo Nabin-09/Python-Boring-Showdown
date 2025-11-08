@@ -74,4 +74,9 @@ are made if changes are made.
 - Operators : + , - , * , ** , // , /
 - + can concatenate strings 
 - study about repr , str and print
-- 
+- < , > , <= , >= , == , and , or etc operators
+- learn about the math library and its methods
+- Also go for complex numbers and how to denote octal and hexal numbers
+- Bitwise operators 
+- understand random and decimal package
+- Learn about Fraction package 
