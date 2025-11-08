@@ -80,3 +80,4 @@ are made if changes are made.
 - Bitwise operators 
 - understand random and decimal package
 - Learn about Fraction package 
+- We use the & and | operator to find Union and Intersection 
