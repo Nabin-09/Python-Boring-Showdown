@@ -67,3 +67,9 @@ are made if changes are made.
 - Numbers and strings are not immediately collected
 - **Lists are mutable** , but if they point to same reference, changes in one reflect in another.
 - refer to InnerWorking/Reference.py
+- go for '==' op and 'is' operator
+
+## Numbers 
+
+- Operators : + , - , * , ** , // , /
+- + can concatenate strings 
