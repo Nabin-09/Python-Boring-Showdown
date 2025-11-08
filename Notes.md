@@ -61,3 +61,9 @@ are made if changes are made.
 
 - *Learn about Errors*
 
+## Internal working in Detail : 
+
+- Objects in memory have data types and not the variables
+- Numbers and strings are not immediately collected
+- **Lists are mutable** , but if they point to same reference, changes in one reflect in another.
+- refer to InnerWorking/Reference.py
